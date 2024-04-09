@@ -15,6 +15,6 @@ document.addEventListener('DOMContentLoaded', function () {
         localStorage.setItem('userPassword', password);
 
         // Redirect to login page
-        window.location.href = 'loginform.html';
+        window.location.href = 'index.html';
     });
 });
